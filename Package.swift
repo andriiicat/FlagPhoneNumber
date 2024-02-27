@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "FlagPhoneNumber",
-            url: "https://github.com/atrbx5/FlagPhoneNumber/raw/20a662f556f969b66672710e0ab57856e4408ff8/build/FlagPhoneNumber.xcframework.zip",
-            checksum: "efdea2d95ce75c648760e97048de1b141796ad78e60a174f3c09d1b6e254a07e"
+            url: "https://github.com/andriiicat/FlagPhoneNumber/raw/master/build/FlagPhoneNumber.xcframework.zip",
+            checksum: "9a5596f109cfda2ec28591ad52ff5d56a72f605057d1d658bd11e251071c1a83"
         ),
     ]
 )
